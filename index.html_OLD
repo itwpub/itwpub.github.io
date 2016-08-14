@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" xmlns:lr="http://adobe.com/lrg/0.0"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" xmlns:lr="http://adobe.com/lrg/0.0"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" xmlns:lr="http://adobe.com/lrg/0.0"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xmlns:lr="http://adobe.com/lrg/0.0"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>2016 LIFE @ SHAO</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+        <link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="assets/css/custom.css" >
+        <script src="assets/js/libs/modernizr.custom.23122.js"></script>
+    </head>
+    <body class="has-header row-spacing-md" data-pagination-style="scroll" data-target-row-height="200">
+                        <header class="is-fixed">
+            <div class="background"></div>
+            <div class="meta-left">
+                <p id="galleryTitle" class="title">2016 LIFE @ SHAO</p>
+                                <p id="galleryAuthor" class="author">by <a id="galleryAuthorURL" href="http://www.itwob.com" target="_blank">ITWOB</a></p>
+                                </p>
+            </div>
+            <div class="meta-right">
+            </div>
+        </header>
+                <div id="thumbnailContainer">
+            <div class="thumbnails"></div>
+        </div>
+        <p><a href="http://p.itwob.com/May-Changsha/index.html" target="_blank"> > 2016-05-17 to 22 May-Changsha & CSNC 2016</a></p>
+        <p><a href="http://p.itwob.com/April-Europe/index.html" target="_blank"> > 2016-04-16 to 23 April-Europe & EGU 2016</a></p>
+        <p><a href="http://p.itwob.com/sf2016/sf2016.html" target="_blank"> > 2016-03-04 Happy Birthday to SF!</a></p>
+        <p><a href="http://p.itwob.com/photos/index.html" target="_blank"> > 2016-03-27 徒步龙坞古道</a></p>
+        <p><a href="http://p.itwob.com/20160326/index.html" target="_blank"> > 2016-03-26 试拍学习 &Bear2</a></p>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="assets/js/libs/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="assets/js/libs/jquery.velocity.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>

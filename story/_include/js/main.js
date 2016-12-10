@@ -77,6 +77,7 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
+			                                                                {image : '../storypage/May-Changsha.jpg', title : '<div class="slide-content"><a href="../storypage/Fall-memories2016/index.html">Fall memories' no end.</a></div>', thumb : '', url : ''},
 											{image : '../storypage/May-Changsha.jpg', title : '<div class="slide-content"><a href="../storypage/May-Changsha/index.html">2016 May - Changsha & CSNC</a></div>', thumb : '', url : ''},
 											{image : '../storypage/April-Europe.jpg', title : '<div class="slide-content"><a href="../storypage/April-Europe/index.html">2016 April - Europe & EGU</a></div>', thumb : '', url : ''},
 											{image : '../storypage/sf2016.jpg', title : '<div class="slide-content"><a href="../storypage/sf2016/index.html">2016-03-04 Happy Birthday to SF!</a></div>', thumb : '', url : ''},
